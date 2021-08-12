@@ -1,0 +1,1 @@
+Modelo de quiz usando Javascript
